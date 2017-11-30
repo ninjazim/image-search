@@ -1,0 +1,19 @@
+{
+  "name": "short-stack-image-search",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "axios": "^0.17.1"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "repository": {
+    "url": "https://github.com/ninjazim/image-search"
+  },
+  "license": "MIT"
+}
